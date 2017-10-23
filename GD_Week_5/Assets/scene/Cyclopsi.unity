@@ -116,6 +116,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 28640712}
+  - component: {fileID: 28640713}
   m_Layer: 0
   m_Name: Civie (2)
   m_TagString: Untagged
@@ -139,6 +140,21 @@ Transform:
   m_Father: {fileID: 212073330}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &28640713
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 28640711}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &52033158
 GameObject:
   m_ObjectHideFlags: 0
@@ -939,6 +955,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 270192210}
+  - component: {fileID: 270192211}
   m_Layer: 0
   m_Name: Civie (1)
   m_TagString: Untagged
@@ -962,6 +979,21 @@ Transform:
   m_Father: {fileID: 1098831748}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &270192211
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 270192209}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &274136971
 GameObject:
   m_ObjectHideFlags: 0
@@ -1928,6 +1960,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 368108937}
+  - component: {fileID: 368108938}
   m_Layer: 0
   m_Name: Civie (1)
   m_TagString: Untagged
@@ -1951,6 +1984,21 @@ Transform:
   m_Father: {fileID: 212073330}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &368108938
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 368108936}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &374780107
 GameObject:
   m_ObjectHideFlags: 0
@@ -2125,6 +2173,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 419309568}
+  - component: {fileID: 419309569}
   m_Layer: 0
   m_Name: Civie
   m_TagString: Untagged
@@ -2148,6 +2197,21 @@ Transform:
   m_Father: {fileID: 212073330}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &419309569
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 419309567}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &437602333
 GameObject:
   m_ObjectHideFlags: 0
@@ -2356,6 +2420,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 547324105}
+  - component: {fileID: 547324106}
   m_Layer: 0
   m_Name: Civie (3)
   m_TagString: Untagged
@@ -2379,6 +2444,21 @@ Transform:
   m_Father: {fileID: 1034652283}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &547324106
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 547324104}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &553471158
 GameObject:
   m_ObjectHideFlags: 0
@@ -2852,6 +2932,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 623162704}
+  - component: {fileID: 623162705}
   m_Layer: 0
   m_Name: Civie (2)
   m_TagString: Untagged
@@ -2875,6 +2956,21 @@ Transform:
   m_Father: {fileID: 1098831748}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &623162705
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 623162703}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &638487899
 GameObject:
   m_ObjectHideFlags: 0
@@ -2883,6 +2979,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 638487900}
+  - component: {fileID: 638487901}
   m_Layer: 0
   m_Name: Civie (2)
   m_TagString: Untagged
@@ -2906,6 +3003,21 @@ Transform:
   m_Father: {fileID: 52033159}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &638487901
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 638487899}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &642216934
 GameObject:
   m_ObjectHideFlags: 0
@@ -3852,6 +3964,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 864875571}
+  - component: {fileID: 864875572}
   m_Layer: 0
   m_Name: Civie
   m_TagString: Untagged
@@ -3875,6 +3988,21 @@ Transform:
   m_Father: {fileID: 1098831748}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &864875572
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 864875570}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &892116116
 GameObject:
   m_ObjectHideFlags: 0
@@ -5438,6 +5566,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1414339510}
+  - component: {fileID: 1414339511}
   m_Layer: 0
   m_Name: Civie (2)
   m_TagString: Untagged
@@ -5461,6 +5590,21 @@ Transform:
   m_Father: {fileID: 1034652283}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1414339511
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1414339509}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1430754352
 GameObject:
   m_ObjectHideFlags: 0
@@ -5551,6 +5695,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1443001359}
+  - component: {fileID: 1443001360}
   m_Layer: 0
   m_Name: Civie (3)
   m_TagString: Untagged
@@ -5574,6 +5719,21 @@ Transform:
   m_Father: {fileID: 52033159}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1443001360
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1443001358}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1454366291
 GameObject:
   m_ObjectHideFlags: 0
@@ -5664,6 +5824,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1487243286}
+  - component: {fileID: 1487243287}
   m_Layer: 0
   m_Name: Civie (3)
   m_TagString: Untagged
@@ -5687,6 +5848,21 @@ Transform:
   m_Father: {fileID: 1098831748}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1487243287
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1487243285}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1497585944
 GameObject:
   m_ObjectHideFlags: 0
@@ -5942,6 +6118,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1547142850}
+  - component: {fileID: 1547142851}
   m_Layer: 0
   m_Name: Civie (4)
   m_TagString: Untagged
@@ -5965,6 +6142,21 @@ Transform:
   m_Father: {fileID: 52033159}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1547142851
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1547142849}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1577449191
 GameObject:
   m_ObjectHideFlags: 0
@@ -6056,6 +6248,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1605829102}
+  - component: {fileID: 1605829103}
   m_Layer: 0
   m_Name: Civie (1)
   m_TagString: Untagged
@@ -6079,6 +6272,21 @@ Transform:
   m_Father: {fileID: 52033159}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1605829103
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1605829101}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1672811787
 GameObject:
   m_ObjectHideFlags: 0
@@ -6170,6 +6378,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1675482878}
+  - component: {fileID: 1675482879}
   m_Layer: 0
   m_Name: Civie
   m_TagString: Untagged
@@ -6193,6 +6402,21 @@ Transform:
   m_Father: {fileID: 1034652283}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1675482879
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1675482877}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1676228396
 GameObject:
   m_ObjectHideFlags: 0
@@ -6366,6 +6590,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1729999049}
+  - component: {fileID: 1729999050}
   m_Layer: 0
   m_Name: Civie (1)
   m_TagString: Untagged
@@ -6380,7 +6605,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1729999048}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.9, y: -0, z: -1.2}
+  m_LocalPosition: {x: -9.1, y: -1.7, z: -11.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1529972905}
@@ -6389,6 +6614,21 @@ Transform:
   m_Father: {fileID: 1034652283}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1729999050
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1729999048}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1743723782
 GameObject:
   m_ObjectHideFlags: 0
@@ -6980,6 +7220,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1857441661}
+  - component: {fileID: 1857441662}
   m_Layer: 0
   m_Name: Civie (4)
   m_TagString: Untagged
@@ -7003,6 +7244,21 @@ Transform:
   m_Father: {fileID: 1098831748}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1857441662
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1857441660}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1860902433
 GameObject:
   m_ObjectHideFlags: 0
@@ -7175,6 +7431,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1909514957}
+  - component: {fileID: 1909514958}
   m_Layer: 0
   m_Name: Civie (4)
   m_TagString: Untagged
@@ -7198,6 +7455,21 @@ Transform:
   m_Father: {fileID: 1034652283}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1909514958
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1909514956}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1913020242
 GameObject:
   m_ObjectHideFlags: 0
@@ -7371,6 +7643,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1970306480}
+  - component: {fileID: 1970306481}
   m_Layer: 0
   m_Name: Civie (3)
   m_TagString: Untagged
@@ -7385,7 +7658,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1970306479}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.04, y: 0.5, z: 11}
+  m_LocalPosition: {x: -18.5, y: -1.5, z: 5.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 892116117}
@@ -7394,6 +7667,21 @@ Transform:
   m_Father: {fileID: 212073330}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1970306481
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1970306479}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1973601425
 GameObject:
   m_ObjectHideFlags: 0
@@ -7484,6 +7772,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1984136384}
+  - component: {fileID: 1984136385}
   m_Layer: 0
   m_Name: Civie
   m_TagString: Untagged
@@ -7507,6 +7796,21 @@ Transform:
   m_Father: {fileID: 52033159}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1984136385
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1984136383}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &2000447948
 GameObject:
   m_ObjectHideFlags: 0
@@ -7891,6 +8195,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 2047296374}
+  - component: {fileID: 2047296375}
   m_Layer: 0
   m_Name: Civie (4)
   m_TagString: Untagged
@@ -7905,7 +8210,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2047296373}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.45999146, y: -1.7299999, z: -3.6200104}
+  m_LocalPosition: {x: 0.9, y: -1.7299999, z: -3.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1777096011}
@@ -7914,6 +8219,21 @@ Transform:
   m_Father: {fileID: 212073330}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &2047296375
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2047296373}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &2063134791
 GameObject:
   m_ObjectHideFlags: 0
